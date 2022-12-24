@@ -114,7 +114,7 @@ if(inbox.size()==0)return null;
 
     }
 
-    public int findMailsBetweenDates(Date start, Date end) throws Exception {
+    public int findMailsBetweenDates(Date start, Date end) throws ParseException {
     	
     	
     	
