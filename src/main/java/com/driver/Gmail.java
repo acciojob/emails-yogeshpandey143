@@ -151,6 +151,8 @@ if(inbox.size()==0)return null;
 
     public int getTrashSize(){
        return trash.size();
+       
+       //
 
     }
 
