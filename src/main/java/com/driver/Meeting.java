@@ -12,7 +12,7 @@ public class Meeting {
     }
 
 	public LocalTime getStartTime() {
-		return startTime;
+		return this.startTime;
 	}
 
 	public void setStartTime(LocalTime startTime) {
@@ -20,7 +20,7 @@ public class Meeting {
 	}
 
 	public LocalTime getEndTime() {
-		return endTime;
+		return this.endTime;
 	}
 
 	public void setEndTime(LocalTime endTime) {
